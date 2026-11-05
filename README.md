@@ -1,13 +1,11 @@
 # Han Kim
 
-Full-stack engineer in Quebec. I like systems that are boring to operate: strict types, clear failure modes, and a plan you can read before anything changes.
+Full-stack dev in Quebec. TypeScript and Rust mostly. I did four years on signup and billing at Atlassian, and lately it's Kubernetes dev tools and agent tooling.
 
-Most of my work is TypeScript and Rust, from billing and signup systems at Atlassian to Kubernetes developer tools and AI-agent infrastructure.
+What I like: getting a good product in front of real people, and working on developer tools, since one fix at the bottom helps everyone building on top. I work fast, in small iterations, and I measure each one. When something critical breaks I'm usually the one who ships the fix and gets people unblocked. Office politics, not so much.
 
 ## Open source
 
-**[quebec-er-wait-times](https://github.com/Arephan/quebec-er-wait-times)** is an hourly archive of occupancy at all 120 Quebec emergency rooms, built from the province's open-data feed. It has the raw CSVs, a derived stretcher count, and weekly averages per ER.
-
-## Find me
+**[quebec-er-wait-times](https://github.com/Arephan/quebec-er-wait-times)**: an hourly archive of occupancy at all 120 Quebec emergency rooms. The province's open-data feed only keeps the current hour, so this saves the history (raw CSVs, plus weekly averages per ER). It's the thing I'm proudest of.
 
 [LinkedIn](https://www.linkedin.com/in/han-kim-42a00a198)
