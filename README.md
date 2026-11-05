@@ -6,7 +6,7 @@ He likes getting a good product in front of real people, and working on develope
 
 ## Open source
 
-**[quebec-er-wait-times](https://github.com/Arephan/quebec-er-wait-times)**: an hourly archive of occupancy at all 120 Quebec emergency rooms. The province's open-data feed only keeps the current hour, so this saves the history (raw CSVs, plus weekly averages per ER). It's the thing Han is proudest of.
+**[quebec-er-wait-times](https://github.com/Arephan/quebec-er-wait-times)**: an hourly archive of occupancy at all 120 Quebec emergency rooms. The province's open data feed only keeps the current hour, so this saves the history (raw CSVs, plus weekly averages per ER).
 
 CTV News Montreal covered the ER app he built: ["Quebec man develops app to track ER waits, occupancy and trends"](https://www.ctvnews.ca/montreal/article/quebec-man-develops-app-to-track-er-waits-occupancy-and-trends/).
 
