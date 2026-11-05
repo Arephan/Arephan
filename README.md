@@ -2,7 +2,7 @@
 
 Han is a full-stack dev in Quebec who works mostly in TypeScript and Rust. He spent four years on signup and billing at Atlassian, and lately it's Kubernetes dev tools and agent tooling.
 
-He likes getting a good product in front of real people, and working on developer tools, since one fix at the bottom helps everyone building on top. He works fast, in small iterations, and measures each one. When something critical breaks he's usually the one who ships the fix and gets people unblocked. Office politics, not so much.
+He likes getting a good product in front of real people, and working on developer tools, since one fix at the bottom helps everyone building on top. He works fast, in small iterations, and measures each one. When something critical breaks he's usually the one who ships the fix and gets people unblocked.
 
 ## Open source
 
