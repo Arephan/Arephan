@@ -8,4 +8,6 @@ What I like: getting a good product in front of real people, and working on deve
 
 **[quebec-er-wait-times](https://github.com/Arephan/quebec-er-wait-times)**: an hourly archive of occupancy at all 120 Quebec emergency rooms. The province's open-data feed only keeps the current hour, so this saves the history (raw CSVs, plus weekly averages per ER). It's the thing I'm proudest of.
 
+Work account: [hank-metalbear](https://github.com/hank-metalbear) (my day-job open-source work)
+
 [LinkedIn](https://www.linkedin.com/in/han-kim-42a00a198)
